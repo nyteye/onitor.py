@@ -7,3 +7,6 @@ Implemented automated incident detection logic that triggers alerts when resourc
 Engineered a logging mechanism to capture historical performance data, enabling root cause analysis and proactive capacity planning.
 
 Simulated enterprise-level workflows by integrating email notification scripts, demonstrating proficiency in operational automation and Python scripting.
+*******######updating
+<img width="513" height="320" alt="image" src="https://github.com/user-attachments/assets/f64a1500-0fac-45f2-a415-01e64e0c693c" />
+
